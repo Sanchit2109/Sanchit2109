@@ -10,13 +10,13 @@ About Me
 
 Skills
 
-Programming Languages: Python, R, SQL
+Programming Languages: Python, R, SQL , Java , C , C++
 
 Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-learn
 
 Machine Learning: Supervised and Unsupervised Learning, Deep Learning (Beginner)
 
-Other Tools: Git, Jupyter Notebook, Tableau
+Other Tools: Git, Jupyter Notebook, Tableau , DSA
 
 Projects
 
@@ -32,7 +32,7 @@ Get in Touch
 
 📫 Email: sanchitpanwar2196@gmail.com 
 
-💼 LinkedIn: linkedin.com/in/sanchitpanwar
+💼 LinkedIn: www.linkedin.com/in/sanchitpanwar
 
 🖥️ Portfolio/Website: sanchitpanwar.dev
 
