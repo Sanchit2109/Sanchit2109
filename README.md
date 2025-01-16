@@ -8,16 +8,6 @@ About Me
 
 💡 Passionate about solving real-world problems through data-driven insights and innovative solutions.
 
-Skills
-
-Programming Languages: Python, R, SQL , Java , C , C++
-
-Data Science Tools: Pandas, NumPy, Matplotlib, Scikit-learn
-
-Machine Learning: Supervised and Unsupervised Learning, Deep Learning (Beginner)
-
-Other Tools: Git, Jupyter Notebook, Tableau , DSA
-
 Projects
 
 Countdown Timer in Python: A simple yet effective Python program that allows users to set a countdown timer for a specific duration, displaying time updates and notifying upon completion.
@@ -26,7 +16,7 @@ Dice Roll Simulation: A Python-based project that simulates the rolling of a dic
 
 Fake News Detector: A robust machine learning project with over 1000 lines of code designed to achieve 100% accuracy in detecting fake news using advanced natural language processing and machine learning algorithms.
 
-(Feel free to replace with actual project names and descriptions!)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,mongodb,c,py,gcp,html,css,mysql)](https://skillicons.dev)
 
 Get in Touch
 
@@ -34,7 +24,6 @@ Get in Touch
 
 💼 LinkedIn: www.linkedin.com/in/sanchitpanwar
 
-🖥️ Portfolio/Website: sanchitpanwar.dev
 
 Fun Facts
 
